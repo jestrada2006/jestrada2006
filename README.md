@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @jestrada2006
+- 👀 I’m interested in video game console design and building low-level algorithms.
+- 🌱 I’m currently learning FPGA programming in order to build my own game system.
+- 💞️ I’m looking to collaborate on video game projects related to hardware or software.
+- 📫 How to reach me: please use the discussion boards.
